@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "target": "esnext",
+      "module": "esnext",
+      "moduleResolution": "node",
+      "declaration": true,
+      "outDir": "./dist",
+      "strict": true,
+      "strictPropertyInitialization": false,
+      "stripInternal": true,
+      "resolveJsonModule": true,
+      "removeComments": true
+    },
+    "include": [
+      "EventEmitter.ts"
+    ]
+  }
+  
